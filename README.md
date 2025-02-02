@@ -39,3 +39,17 @@ This project is a web-based quiz application that includes gamification features
 - **API**: Questions are fetched from an external API to populate the quiz.
 
 ---
+## **Setup Instructions**
+
+### **1. Clone the Repository**
+
+git clone https://github.com/AkshatVishwakarma29/Quiz-web-application.git
+
+### **2. Install Dependencies**
+cd quiz-app
+npm install
+
+### **3. Run the Application**
+npm start
+
+The app will run locally on http://localhost:3000.
